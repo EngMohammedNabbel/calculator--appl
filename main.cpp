@@ -6,7 +6,6 @@ int add(int a , int b)
 }
 
 int main()
-
 {
     cout << "Calculator App "<< endl;
     cout << " 2 + 3 = "<<add(2,3)<< endl;
